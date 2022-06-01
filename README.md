@@ -1,6 +1,6 @@
 # EDA Tour de France
 
-![](images/logo.jpg)
+![](images/logo.png)
 
 Históricamente, los tres países ganadores en el ciclismo han sido Francia, España e Italia. El objetivo de este EDA es analizar la evolución en el rendimiento de sus ciclistas en los últimos años. Para ello, vamos a visualizar los resultados que han obtenido entre los años 2015 y 2019 en la competición del Tour de France. 
 
